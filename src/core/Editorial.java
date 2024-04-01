@@ -27,6 +27,30 @@ public class Editorial {
         this.Gerente = null;
     }
 
+    public String getNit() {
+        return nit;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public String getDireccion() {
+        return direccion;
+    }
+
+    public Gerente getGerente() {
+        return Gerente;
+    }
+
+    public ArrayList<Libro> getLibro() {
+        return Libro;
+    }
+
+    public ArrayList<Stand> getStand() {
+        return Stand;
+    }
+
     
     
     
