@@ -27,6 +27,7 @@ public class Editorial {
         this.Gerente = null;
     }
 
+
     
     
     
