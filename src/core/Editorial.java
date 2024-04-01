@@ -27,6 +27,7 @@ public class Editorial {
         this.Gerente = null;
     }
 
+
     public String getNit() {
         return nit;
     }
@@ -50,6 +51,7 @@ public class Editorial {
     public ArrayList<Stand> getStand() {
         return Stand;
     }
+
 
     
     
