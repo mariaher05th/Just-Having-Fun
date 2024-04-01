@@ -9,5 +9,8 @@ package core;
  * @author maryj
  */
 public class Persona {
+
+    public Persona() {
+    }
     
 }
